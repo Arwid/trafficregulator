@@ -1,0 +1,11 @@
+= trafficregulator
+
+author:: Arwid Bancewicz http://arwid.ca
+version:: 1.0
+updated:: 1 May 2010
+
+This project contains a variety of traffic generators and receivers (LeakyBucket, DualLeakyBucket, FIFOPriority, etc).
+
+= License
+
+trafficregulator is covered by the MIT License.
